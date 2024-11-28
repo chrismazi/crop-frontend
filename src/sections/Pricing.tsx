@@ -21,7 +21,7 @@ const pricingTiers = [
   {
     id: 'premium', // Add unique id
     title: "Premium Plan",
-    monthlyPrice: 200,
+    monthlyPrice: 50,
     buttonText: "Sign up now",
     popular: true,
     inverse: true,
